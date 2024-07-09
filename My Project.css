@@ -1,0 +1,60 @@
+body {
+border:10px;
+border-color:orange;
+cursor: pointer
+}
+body:hover{
+background-color: blue;
+}
+
+html {
+scroll-behaviour:smooth;
+}
+
+u {
+background-color: orange;
+}
+
+p {
+border:10px;
+border-color:apple;
+}
+
+h1 {
+color:red;
+align:center;
+}
+
+h1, h2, h3 {
+align:center;
+padding:auto;
+margin-left:auto;
+margin-right:auto;
+}
+
+h2 {
+font-size:16;
+}
+
+header {
+color:blue;
+padding: 20px;
+text-align: center;
+}
+
+header a {
+}
+
+footer {
+color:orange;
+border:20px;
+border-color:red;
+}
+
+nav a{
+display:block;
+padding:20px;
+border:10px;
+border-color:black;
+float:left;
+}
